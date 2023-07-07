@@ -1,2 +1,2 @@
 # Address-Resolution-Protocol
-ARP Implementation using UDP in C
+Implementation of ARP using UDP in C programmingh language
